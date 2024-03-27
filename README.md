@@ -1,7 +1,9 @@
 
-# 🚀 Yash Kothari - Blockchain Developer 🚀
+# 🚀 Yash Kothari - Blockchain Developer
 
-![Blockchain Developer](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
+![Blockchain Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFmZnViZzlyMzFpdzN1dWN2M2V4cW9vZHZvbGt4cjFmNTdlYWZzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0u7eU0nSmOJ0hGf6n/giphy.gif)
 
 ## **🔥 A Bit About Me**
 
@@ -10,7 +12,7 @@ Hello, World! 👋 I'm Yash, a Blockchain Developer who's passionate about solvi
 ## **🎓 My Learning Journey**
 
 - **Master of Computer Application** from GLS University, Ahmedabad, IN (2021 - 2023)
-  - Graduated with a CGPA of 6.9/10. Not too shabby, right? 😉
+- **Bachelor of Computer Application** from Gujarat University, Ahmedabad, IN (2018 - 2021)
 
 ## **👨‍💼 Where I've Made an Impact**
 
@@ -73,6 +75,6 @@ Hello, World! 👋 I'm Yash, a Blockchain Developer who's passionate about solvi
 - [GitHub](https://github.com/yashkothari27)
 - [Shoot me an Email](kothariyash2711@gmail.com)
 
-![Footer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFmZnViZzlyMzFpdzN1dWN2M2V4cW9vZHZvbGt4cjFmNTdlYWZzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0u7eU0nSmOJ0hGf6n/giphy.gif)
+![Footer](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
