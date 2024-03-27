@@ -73,6 +73,6 @@ Hello, World! 👋 I'm Yash, a Blockchain Developer who's passionate about solvi
 - [GitHub](https://github.com/yashkothari27)
 - [Shoot me an Email](kothariyash2711@gmail.com)
 
-![Footer](https://giphy.com/embed/v0u7eU0nSmOJ0hGf6n)
+![Footer](https://giphy.com/gifs/eToroUS-ethereum-eth-ether-v0u7eU0nSmOJ0hGf6n)
 
 ---
