@@ -1,7 +1,3 @@
-# Answer
-Certainly, let's make your README more engaging and visually appealing. Here's an example:
-
----
 
 # 🚀 Yash Kothari - Blockchain Developer 🚀
 
