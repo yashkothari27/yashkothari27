@@ -1,80 +1,99 @@
-
-# 🚀 Yash Kothari - Blockchain Developer
-
-
+# 🚀 Yash Kothari - Blockchain Developer Extraordinaire
 
 ![Blockchain Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFmZnViZzlyMzFpdzN1dWN2M2V4cW9vZHZvbGt4cjFmNTdlYWZzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0u7eU0nSmOJ0hGf6n/giphy.gif)
 
-## **🔥 A Bit About Me**
+## 🔥 A Bit About Me
 
-Hello, World! 👋 I'm Yash, a Blockchain Developer who's passionate about solving complex problems and creating elegant solutions. I specialize in Solidity and NFT development, and I'm always pushing the boundaries of what's possible in the blockchain space. I take pride in my work on enhancing network integrity and stability by setting up validator nodes.
+Hey, internet! 👋 I’m **Yash**, a passionate Blockchain Developer who lives and breathes smart contracts, validator nodes, and caffeinated code sprints. Whether it's Solidity sorcery or Web3 wizardry, I’m your guy. 🧙‍♂️💻
 
-## **🎓 My Learning Journey**
+> “Why follow the chain when you can *build* it?”
 
-- **Master of Computer Application** from GLS University, Ahmedabad, IN (2021 - 2023)
-- **Bachelor of Computer Application** from Gujarat University, Ahmedabad, IN (2018 - 2021)
+## 🎓 Learning Curve (aka How I Upgraded Myself)
 
-## **👨‍💼 Where I've Made an Impact**
+* 🧠 **MCA** - GLS University, Ahmedabad (2021 - 2023)
+* 🎓 **BCA** - Gujarat University, Ahmedabad (2018 - 2021)
+* 🛠️ Majored in Ctrl+C, Minored in Ctrl+V... then learned better.
 
-- **Software Engineer at Web4Next** (12/2022 - 12/2023)
-  - Led significant advancements in blockchain development, leading to a 40% boost in project efficiency. 💪
-  - Managed and delivered 5 innovative blockchain projects, including real-estate NFT, Ripple Wallet, and AdSpace.
-  - Strengthened Ethereum network security by setting up a validator node. 🔒
-  - Pioneered comprehensive research on various blockchain ecosystems. 🌐
+## 💼 Where I Left My Mark
 
-## **🔧 My Contributions to Open Source World**
+### 🏥 **Reltime AS – Software Engineer (Blockchain)**
 
-- **Solang Solidity Compiler at Web4Next** (07/2023)
-  - Streamlined the installation process of the compiler across diverse systems. 🛠️
-  - Worked as part of a collaborative team to enhance product accessibility and user-friendliness. 👥
+*Jul 2024 – Present*
 
-## **🛠 My Toolkit**
+* Built a **multi-chain platform** with AI, IPFS, and HIPAA-level security. Basically a tech smoothie. 🧃
+* Unified 15+ healthcare APIs. Doctors smiled. Coders cried (with joy). 🧑‍⚕️🤖
+* Designed a **SuperApp** with tokenized savings, Web3 wallet & cross-border magic (Visa, SWIFT, etc). 🌍💸
+* Fractionalized real estate. 🏠💰 Who knew tokens could own land?
 
-- **Client-Side Skills:**
-  - Solidity
-  - NFTs
-  - DeFi
-  - Web3.js
-  - Ether.js
-  - Hardhat
-  - Metamask
+### 🪑 **TSC Design – Software Engineer (Blockchain + Backend)**
 
-- **Server-Side Skills:**
-  - EVM
-  - NodeJS
-  - Express.js
-  - MongoDB
-  - Postman
-  - MySql
-  - IPFS
+*Jan 2024 – Sep 2024*
 
-- **Development & Operations Skills:**
-  - DApp
-  - Tokenization
-  - GIT
-  - Consensus Algorithms
+* Built a blockchain-based Google Drive for files. But decentralized. And cooler. 📁🔐
+* Boosted e-com conversions with faster pages and slick payments. 💳⚡
+* Delivered GDPR-compliant systems so clean, even regulators clapped. 👏🕵️
 
-## **📂 Projects I'm Proud Of**
+### 🌐 **Web4Next – Software Engineer (Blockchain)**
 
-- **Flash Loan** (10/2023 - 11/2023)
-  - Developed a Solidity smart contract for flash loan-based triangular arbitrage on PancakeSwap. 💰
-  - Optimized trades to take advantage of price disparities across assets within a single transaction. 📈
+*Dec 2022 – Dec 2023*
 
-## **💡 My Strengths**
-
-- Blockchain Expertise 🧠
-- Solidity Proficiency 📚
-- Leadership and Project Management 🎯
-- Unwavering Commitment to Security 🔒
+* Made **Ethereum DApps** that made real estate NFTs feel like child’s play. 🏘️🧠
+* Built a **Ripple wallet** with MetaMask vibes. Fast, secure, and smooth like butter. 💳⚙️
+* Wrote smart contract tutorials that saved devs from stack overflow tears. 😅📚
+* Deployed validator nodes like it’s Sunday brunch. ☕📡
 
 ---
 
-## **🌐 Connect with Me!**
+## 🧰 My Dev Toolkit
 
-- [LinkedIn](https://www.linkedin.com/in/kyash27/)
-- [GitHub](https://github.com/yashkothari27)
-- [Shoot me an Email](kothariyash2711@gmail.com)
+**Frontend / Smart Contracts:**
 
-![Footer](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+* `Solidity`, `NFTs`, `Web3.js`, `Ether.js`, `Hardhat`, `DeFi`, `Metamask`, `React.js`
+
+**Backend / Infra:**
+
+* `Node.js`, `Express.js`, `MongoDB`, `MySQL`, `Postman`, `IPFS`, `Hyperledger Besu`, `Django`, `Redis`, `Figma` (for the artsy side)
+
+**DevOps & Blockchain Infra:**
+
+* `Ethereum`, `EVM`, `Consensus Algorithms`, `Validator Nodes`, `Chainlink`, `GIT`, `ZKP`, `AMMs`, `ERC-20`, `ERC-3643`
 
 ---
+
+## 🧠 Projects I’m Proud Of
+
+### 💸 **Flash Loan Arbitrage on PancakeSwap**
+
+* Triangular arbitrage + flash loan = profits within a single block. 🚀
+* Wrote optimized Solidity contracts that hunted for price gaps like a blockchain bloodhound. 🐕
+
+### 🌍 **Decentralized Storage System**
+
+* Think Google Drive + Blockchain + Encryption = A digital Fort Knox. 🔐📦
+
+### 🌐 **Private Blockchain Explorer**
+
+* Built to reduce fraud detection time by 90%. Inspect everything like a Web3 Sherlock. 🕵️‍♂️
+
+---
+
+## 💪 What Makes Me Different?
+
+* 🔐 **Security-first**: Multi-sig, audits, ZKPs, encryption—trust me, your data sleeps safe.
+* 📊 **Scalable systems**: 2,500+ TPS chains? Been there. Done that.
+* ⚙️ **Backend boss**: RESTful APIs, integrations, custom tooling, infra setups—name it.
+* 🧠 **Solidity + Strategy**: Code with a vision and purpose. No spaghetti here.
+
+---
+
+## 🌐 Let’s Connect
+
+* 🧳 [LinkedIn](https://www.linkedin.com/in/kyash27/)
+* 🧑‍💻 [GitHub](https://github.com/yashkothari27)
+* 📬 [kothariyash2711@gmail.com](mailto:kothariyash2711@gmail.com)
+
+---
+
+![Bye Bye](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+> *“Still here? Go scroll my GitHub, I swear it's alive.”*
